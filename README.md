@@ -10,12 +10,12 @@
 - I'm currently learning more about web and mobile development
 - I'm learning react and flutter
 - Angular <3
-- my email (cristhianingsis@gmail.com)
+- my email (ma.aguilarmatias@gmail.com)
 
-[![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/CrissVargasUAGRM)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-vargas-quiroz-309574210/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NMvXJpxg)
-[![Facebook](https://img.shields.io/badge/Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/superbreakdance)
+[![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/Lucymaa)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-aguilar-4952911aa/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
+[![Facebook](https://img.shields.io/badge/Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matikidjr)
 
 #### Technologies 🖥️ 📊
 
