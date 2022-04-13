@@ -2,10 +2,10 @@
 
 <!-- <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> -->
 <a align="right" title="Music? 🎧" href="https://www.youtube.com/watch?v=34Na4j8AVgA" target="_blank">
-  <img align="right" alt="GIF" height="160px" src="https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv" />
+  <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </a>
 
-## I'm a student of engineering systems, I like tecnologies frontend.
+## I'm a student of engineering systems.
 
 - I'm currently learning more about web and mobile development
 - I'm learning react and flutter
@@ -41,4 +41,3 @@
 [![MongoDB](https://img.shields.io/badge/-mongodb-61DAFB?logo=mongodb&style=for-the-badge&color=white)](https://www.mongodb.com)
 [![SQLserver](https://img.shields.io/badge/SQLserver-0077B5?style=for-the-badge&logo=sqlserver&logoColor=blue)](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 
-## I have a big interest to learn new tecnologies!!!!
